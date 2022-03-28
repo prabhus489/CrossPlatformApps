@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-**Project Owner : Prabhu Sundarraj**
-**Author : Prabhu Sundarraj**
+- **Project Owner : Prabhu Sundarraj**
+- **Author : [Prabhu Sundarraj](https://www.linkedin.com/in/prabhu-sundarraj/)**
 
 ## Getting Started
 
