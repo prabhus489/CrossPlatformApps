@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+**Project Owner : Prabhu Sundarraj**
+**Author : Prabhu Sundarraj**
+
 ## Getting Started
 
 ### What is Flutter?
