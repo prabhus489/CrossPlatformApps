@@ -7,7 +7,9 @@ A new Flutter project.
 ### What is Flutter?
 **Flutter** is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.
 
-This project is a starting point for our Flutter application, we will create a simple mobile Flutter app. If you're familiar with object-oriented code and basic programming concepts—such as variables, loops, and conditionals—then you can complete the lab. You don't need previous experience with Dart, mobile, or web programming
+This project is a starting point for our Flutter application, we will create a simple mobile Flutter app. If you're familiar with object-oriented code and basic programming concepts such as variables, loops, and conditionals then you can work on this project to enhance the mobile application in a way that you want to develop. 
+
+You don't need previous experience with Dart, mobile, or web programming
 
 
 ### Scope or Feature of this Android Application:
@@ -15,8 +17,8 @@ You'll implement a simple app that generates proposed names for a startup compan
 
 
 ### Scope of the Learning:
-i)build the Flutter mobile app
-ii)deploy the Flutter mobile app
+- build the Flutter mobile app
+- deploy the Flutter mobile app
 
 
 ### Steps to run this Project in your Machine:
